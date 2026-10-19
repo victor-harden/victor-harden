@@ -1,70 +1,79 @@
+<div align="center">
 
-<br clear="both">
+# 🛡️ blackhat264
+### Cybersecurity Enthusiast | Arch Linux Daily Driver | Security Automation
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="60" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="60" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+### 🔥 About Me
+
+> **\"I use Arch, btw\"** + system hardening + offensive & defensive security tooling.
+
+- 🐧 **Arch Linux** daily driver (Hyprland / Wayland)
+- 🛡️ Focus: System Hardening, Detection Engineering, Automation & Offensive Security
+- 🔧 Building practical tools that solve real problems on Arch
+- ⚔️ Always learning both sides: Blue Team ↔ Red Team
+
+---
+
+### 🛠️ Tech Stack
+
+**OS / Desktop**  
+`Arch Linux` · `Hyprland` · `Wayland` · `Btrfs + Snapper` · `systemd`
+
+**Security**  
+`nmap` · `Wireshark` · `Suricata` · `ClamAV` · `AppArmor` · `Firejail` · `LUKS` · `nftables` · `Fail2Ban`
+
+**Languages & Tools**  
+`Python` · `Bash` · `Go` · `pacman` · `AUR` · `Docker` · `Git`
+
+---
+
+### 📌 Featured Projects
+
+| Repository | Description |
+|------------|-------------|
+| **[arch-hardened](https://github.com/blackhat264/arch-hardened)** | Full Arch Linux hardening setup (LUKS, Secure Boot, AppArmor, nftables, Btrfs) |
+| **[arch-security-scripts](https://github.com/blackhat264/arch-security-scripts)** | Collection of hardening, privacy & monitoring scripts for Arch |
+| **[cyber-sentry-arch](https://github.com/blackhat264/cyber-sentry-arch)** | Correlates Arch Security Tracker + CISA KEV with your installed packages |
+| **[hyprland-security-dotfiles](https://github.com/blackhat264/hyprland-security-dotfiles)** | Hyprland configs focused on security + clean aesthetics |
+| **[secuarch-installer](https://github.com/blackhat264/secuarch-installer)** | Automated Arch install oriented to pentesters (Btrfs + security tools) |
+| **[linux-hardening-checklist](https://github.com/blackhat264/linux-hardening-checklist)** | Hardening checklist + verification scripts based on CIS + Arch Wiki |
+| **[python-security-tools](https://github.com/blackhat264/python-security-tools)** | Practical Python tools for recon, analysis and automation |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackhat264&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhat264&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=blackhat264&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/blackhat264/blackhat264/trophy-output/trophy.svg?theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+### 🐧 Current Setup Highlights
+
+- Kernel: `linux-zen` / hardened options
+- Firewall: `nftables` (drop by default)
+- Full disk encryption + Secure Boot
+- Daily scripts for updates, hardening checks & threat intel
+- Minimal attack surface, maximum control
+
+---
+
+<div align="center">
+
+*\"The quieter you become, the more you are able to hear.\"*
+
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackhat264/blackhat264/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackhat264/blackhat264/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blackhat264/blackhat264/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
