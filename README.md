@@ -63,8 +63,8 @@ Infrastructure      Docker · systemd · pacman · Git
 ### GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blackhat264&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhat264&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victor-harden&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-harden&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 </div>
 
 <div align="center">
