@@ -25,7 +25,7 @@ Currently building practical tools and configurations used in personal infrastru
 
 **Main focus areas:**
 - System Hardening & Secure Desktop Environments
-- Offensive Security / Red Team tooling
+- Offensive Security / Red Team tooling & labs
 - Detection Engineering & Automation
 - Arch Linux infrastructure
 
@@ -50,11 +50,13 @@ Infrastructure      Docker · systemd · pacman · Git
 |---------|-------------|
 | **[arch-hardened](https://github.com/blackhat264/arch-hardened)** | Production-oriented Arch Linux hardening framework |
 | **[secuarch-installer](https://github.com/blackhat264/secuarch-installer)** | Automated Arch installer for security labs & pentesting |
+| **[offensive-lab-notes](https://github.com/blackhat264/offensive-lab-notes)** | Notes, techniques and lab setups for offensive security practice |
 | **[python-security-tools](https://github.com/blackhat264/python-security-tools)** | Offensive & defensive helper tools in pure Python |
+| **[detection-rules](https://github.com/blackhat264/detection-rules)** | Custom detection rules and use cases (Suricata, auth logs) |
 | **[arch-security-scripts](https://github.com/blackhat264/arch-security-scripts)** | Daily-driver hardening, privacy and monitoring scripts |
 | **[cyber-sentry-arch](https://github.com/blackhat264/cyber-sentry-arch)** | Local vulnerability correlation (Arch Tracker + CISA KEV) |
+| **[arch-dotfiles](https://github.com/blackhat264/arch-dotfiles)** | Arch Linux + Hyprland dotfiles (productivity + security) |
 | **[linux-hardening-checklist](https://github.com/blackhat264/linux-hardening-checklist)** | CIS-inspired hardening checklist + verification scripts |
-| **[hyprland-security-dotfiles](https://github.com/blackhat264/hyprland-security-dotfiles)** | Security-focused Hyprland configuration |
 
 ---
 
